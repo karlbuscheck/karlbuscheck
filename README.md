@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Karl Buscheck
 
-<!--
-**karlbuscheck/karlbuscheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MBA Candidate** | **Data Analyst** | **Storyteller in Python**
 
-Here are some ideas to get you started:
+I'm currently pursuing my MBA in Data Science and Business Analytics at the Leavey School of Business at Santa Clara University. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working on
+- sds
+
+  ## Interest & Tools
+  - **Languages**: Python
+  - **Libraries**: pandas, scikit-learn, Seaborn, matplotlib, nltk
+  - **Specialties**: data cleaning, exploratory analysis, machine learning, storytelling, podcasts
+ 
+  Thanks for stopping by. Stay tuned for more.
+
+  > *\"Turning data into insights, one notebook at a time.\"*
