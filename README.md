@@ -1,17 +1,15 @@
-## Hi there 👋, I'm Karl Buscheck
+## “Turning data into insights, one notebook at a time.”
 
-**MBA Candidate** | **Data Analyst** | **Storyteller in Python**
+Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and building machine learning models that dig into real-world problems.
 
-I'm currently pursuing my MBA in Data Science and Business Analytics at the Leavey School of Business at Santa Clara University. 
+Lately, I’ve been focused on the podcast industry—exploring what drives rankings, audience retention, and long-term success using logistic regression, feature selection, and a whole lot of spreadsheet cleanup.
 
+---
 ### What I'm Working on
 - sds
+- Writing about what I learn at [Leavey Ventures](h[ttps://actual-link.com](https://leaveyventures.substack.com/))
 
   ## Interest & Tools
   - **Languages**: Python
   - **Libraries**: pandas, scikit-learn, Seaborn, matplotlib, nltk
   - **Specialties**: data cleaning, exploratory analysis, machine learning, storytelling, podcasts
- 
-  Thanks for stopping by. Stay tuned for more.
-
-  > *\"Turning data into insights, one notebook at a time.\"*
