@@ -2,15 +2,7 @@
 
 Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and building machine learning models that dig into real-world problems.
 
-Lately, I’ve been focused on the podcast industry—exploring what drives rankings, audience retention, and long-term success using logistic regression, feature selection, and a whole lot of spreadsheet cleanup.
+Lately, I’ve been focused on the podcast industry—exploring what drives rankings, and success. I write about it all at [Leavey Ventures](https://leaveyventures.substack.com)-my "comment line" for *all* my projects, notebooks and beyond.
 
----
-### What I'm Working on
-- sds
-- Writing about what I learn (and unlearn) at [Leavey Ventures](https://leaveyventures.substack.com)
-
-
-  ## Interest & Tools
-  - **Languages**: Python
-  - **Libraries**: pandas, scikit-learn, Seaborn, matplotlib, nltk
-  - **Specialties**: data cleaning, exploratory analysis, machine learning, storytelling, podcasts
+## Favorite Tools
+- Python, pandas, scikit-learn, and NotebookLM
