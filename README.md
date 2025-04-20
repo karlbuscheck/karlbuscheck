@@ -4,5 +4,8 @@ Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and bu
 
 Lately, I’ve been focused on the podcast industry—exploring what drives rankings, and success. I write about it all at [Leavey Ventures](https://leaveyventures.substack.com)-my "comment line" for *all* my projects, notebooks and beyond.
 
+## Cool Projects I've Been Working On
+- [Do podcasts need video to top the charts?] (https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project)
+
 ## Favorite Tools
 - Python, pandas, scikit-learn, and NotebookLM
