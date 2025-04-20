@@ -7,7 +7,8 @@ Lately, I’ve been focused on the podcast industry—exploring what drives rank
 ---
 ### What I'm Working on
 - sds
-- Writing about what I learn at [Leavey Ventures](h[ttps://actual-link.com](https://leaveyventures.substack.com/))
+- Writing about what I learn (and unlearn) at [Leavey Ventures](https://leaveyventures.substack.com)
+
 
   ## Interest & Tools
   - **Languages**: Python
