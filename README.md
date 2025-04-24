@@ -5,7 +5,7 @@ Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and bu
 My work is largely focused on the podcast and broader content industry—exploring what drives success. I write about it all at [Leavey Ventures](https://leaveyventures.substack.com)—my "comment line" for *all* my projects, notebooks, and beyond.
 
 ## Cool Projects I've Been Working On
-- [Do podcasts need video to top the charts?](https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project)
+- [Do podcasts need video to top the charts? It depend — On geography.](https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project)
 - [Building a Lightweigth Search Engine. The Results Were Wildy Wrong. And Suprisingly Revealing](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 - [Turning the homepage of The New York Times into a word cloud](https://github.com/karlbuscheck/nyt-wordcloud)
 - [A machine learning model that predicts fake news](https://github.com/karlbuscheck/fake-news-ml-model)
