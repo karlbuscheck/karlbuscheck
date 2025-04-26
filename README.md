@@ -1,4 +1,4 @@
-## “Turning data into insights, one notebook at a time.”
+## “Turning data into insight, one notebook at a time.”
 
 Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and building machine learning models that dig into real-world problems.
 
