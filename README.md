@@ -5,6 +5,7 @@ Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and bu
 My work is largely focused on the podcast and broader content industry—exploring what drives success. I write about it all at [Leavey Ventures](https://leaveyventures.substack.com)—my "comment line" for *all* my projects, notebooks, and beyond.
 
 ## Cool Projects I've Been Working On
+- [Building Semantic Search Engines: A Mic Drop Moment in Jupyter Notebook.]([https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project](https://github.com/karlbuscheck/semantic-search-engines)
 - [Do podcasts need video to top the charts? It depends—on geography.](https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project)
 - [Building a lightweight search engine. The results were wildy wrong. And suprisingly revealing](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 - [An ode to coding](https://leaveyventures.substack.com/p/an-ode-to-coding)
