@@ -16,8 +16,10 @@ My work is largely focused on the podcast and broader content industry—explori
 - [The time I gave a presentation about a cool, new AI tool and literally blew my professor’s mind](https://leaveyventures.substack.com/p/i-gave-a-presentation-about-a-cool)
 
 ## In The Pipeline
+- Project Charlemagne
+- MicDrop, Version 3
 - The Podcast Recommendation Engine
 - How I Turned My Textbook Into a Podcast
 
 ## Favorite Tools
-- Python, pandas, scikit-learn, and NotebookLM
+- Python, pandas, pytorch, scikit-learn, and NotebookLM
