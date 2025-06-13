@@ -7,7 +7,7 @@ My work is largely focused on the podcast and broader content industry—explori
 ## Cool Projects I've Been Working On
 - [Meet MicDrop—A mini, proof-of-concept NotebookLM Powered by GPT](https://github.com/karlbuscheck/micdrop-notebooklm-gpt)
 - [Building Semantic Search Engines: Efficiency beats power—every time](https://github.com/karlbuscheck/semantic-search-engines)
-- [Teaching DistilGPT-2 to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
+- [Teaching DistilGPT-2 how to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
 - [Do podcasts need video to top the charts? It depends—on geography.](https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project)
 - [Building a lightweight search engine. The results were wildy wrong. And suprisingly revealing](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 - [An ode to coding](https://leaveyventures.substack.com/p/an-ode-to-coding)
