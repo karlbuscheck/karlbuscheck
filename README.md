@@ -6,7 +6,8 @@ My work is largely focused on the podcast and broader content industry—explori
 
 ## Cool Projects I've Been Working On
 - [Meet MicDrop—A mini, proof-of-concept NotebookLM Powered by GPT](https://github.com/karlbuscheck/micdrop-notebooklm-gpt)
-- [Complexity, Accuracy, and Chaos: Exploring Overfitting with Linear and Polynomial Regression Models](https://github.com/karlbuscheck/exploring_linear_vs_polynomial_regression) 
+- [Complexity, Accuracy, and Chaos: Exploring Overfitting with Linear and Polynomial Regression Models](https://github.com/karlbuscheck/exploring_linear_vs_polynomial_regression)
+- [How I Tuned 142 Machine Learning Models With a Single, 5-Line Block of Code](https://github.com/karlbuscheck/knn-142-models)
 - [Battle of the Semantic Search Engines: Efficiency beats power—every time](https://github.com/karlbuscheck/semantic-search-engines)
 - [Even BERT Was Fooled: The Real NYT Headline That Tripped Up My Machine Learning Model](https://github.com/karlbuscheck/fine-tuning-distilbert-fake-news-classifier)
 - [Teaching DistilGPT-2 how to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
