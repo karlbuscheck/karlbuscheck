@@ -9,7 +9,6 @@ My work is largely focused on the podcast and broader content industry—explori
 - [Battle of the Semantic Search Engines: Efficiency beats power—every time](https://github.com/karlbuscheck/semantic-search-engines)
 - [Even BERT Was Fooled: The Real NYT Headline That Tripped Up My Machine Learning Model](https://github.com/karlbuscheck/fine-tuning-distilbert-fake-news-classifier)
 - [Teaching DistilGPT-2 how to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
-- [Do podcasts need video to top the charts? It depends—on geography.](https://github.com/karlbuscheck/beginners-guide-python-data-analytics/tree/main/Part3_Spotify_Project)
 - [Building a lightweight search engine. The results were wildy wrong. And suprisingly revealing](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 - [An ode to coding](https://leaveyventures.substack.com/p/an-ode-to-coding)
 - [Turning the homepage of The New York Times into a word cloud](https://github.com/karlbuscheck/nyt-wordcloud)
