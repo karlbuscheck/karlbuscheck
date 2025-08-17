@@ -27,4 +27,4 @@ My work is largely focused on the podcast and broader content industry—explori
 - How I Turned My Textbook Into a Podcast
 
 ## Favorite Tools
-- Python, pandas, pytorch, scikit-learn, and NotebookLM
+- Python, Pandas, PyTorch, Scikit-Learn, and NotebookLM
