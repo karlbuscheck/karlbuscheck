@@ -6,6 +6,7 @@ My work is largely focused on the podcast and broader content industry—explori
 
 ## Cool Projects I've Been Working On
 - [Meet MicDrop—A mini, proof-of-concept NotebookLM Powered by GPT](https://github.com/karlbuscheck/micdrop-notebooklm-gpt)
+- [FireSat-Lite: A Neural Net that Predicts Wildfires with 95.9% Accuracy](https://github.com/karlbuscheck/firesat-lite)
 - [Battle of the Neural Networks](https://github.com/karlbuscheck/battle-of-the-neural-networks)
 - [Unsupervised Wine: Taming the Curse of Dimensionality](https://github.com/karlbuscheck/unsupervised-wine)
 - [Chaos Isn't a Ladder—It's a Tree](https://github.com/karlbuscheck/chaos-is-a-tree)
