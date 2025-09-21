@@ -28,4 +28,4 @@ Projects in Deep Learning, NLP, and Predictive Modeling — from wildfire detect
 - How I Turned My Textbook Into a Podcast
 
 ## Favorite Tools
-- Python, Pandas, PyTorch, Scikit-Learn, and NotebookLM
+- Python, PyTorch, Scikit-Learn, and NotebookLM
