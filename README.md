@@ -17,6 +17,6 @@ Projects in Deep Learning, NLP, and Predictive Modeling — from wildfire detect
 - [Building a lightweight search engine](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 
 ## Core Tools
-- **Langauges**: Python
+- **Langauges**: Python, SQL
 - **ML Frameworks & Libraries**: PyTorch, Keras, TensorFlow, Hugging Face, Scikit-learn, Pandas, NumPy
 - **Data & MLOps Tools**: Git, Google Colab, Jupyter Notebook
