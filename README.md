@@ -1,12 +1,12 @@
-## “Turning data into insight, one notebook at a time.”
+## AI/ML Engineer | Data Scientist | MBA in Data Science & Business Analytics
 
-Hey, I’m Karl—an MBA candidate who loves working in Jupyter Notebooks and Google Colab and building machine learning models that dig into real business problems.
+Projects in Deep Learning, NLP, and Predictive Modeling — from wildfire detection to AI-powered podcast generation.
 
-My work is largely focused on the podcast and broader content industry—exploring what drives success. I write about it all at [Leavey Ventures](https://leaveyventures.substack.com)—my "comment line" for *all* my projects, notebooks, and beyond.
-
-## Cool Projects I've Been Working On
+## Featured Projects
 - [Meet MicDrop—A mini, proof-of-concept NotebookLM Powered by GPT](https://github.com/karlbuscheck/micdrop-notebooklm-gpt)
 - [FireSat-Lite: A Neural Net that Predicts Wildfires with 95.9% Accuracy](https://github.com/karlbuscheck/firesat-lite)
+
+## More Projects
 - [Battle of the Neural Networks](https://github.com/karlbuscheck/battle-of-the-neural-networks)
 - [Unsupervised Wine: Taming the Curse of Dimensionality](https://github.com/karlbuscheck/unsupervised-wine)
 - [Chaos Isn't a Ladder—It's a Tree](https://github.com/karlbuscheck/chaos-is-a-tree)
