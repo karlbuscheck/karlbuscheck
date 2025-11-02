@@ -1,6 +1,6 @@
 ## AI/ML Engineer | Data Scientist | MBA in Data Science & Business Analytics
 
-Projects in Deep Learning, NLP, and Predictive Modeling — from wildfire detection to AI-powered podcast generation.
+Projects in Deep Learning, NLP, and Computer Vision — from wildfire detection to AI-powered podcast generation.
 
 ## Featured Projects
 [MicDrop: AI-Powered Podcast Generation](https://github.com/karlbuscheck/micdrop-notebooklm-gpt)
