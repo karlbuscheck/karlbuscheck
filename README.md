@@ -12,7 +12,7 @@ Projects in Deep Learning, NLP, and Computer Vision — from wildfire detection 
 ## More Projects
 - [Battle of the Neural Networks](https://github.com/karlbuscheck/battle-of-the-neural-networks)
 - [Unsupervised Wine: Taming the Curse of Dimensionality](https://github.com/karlbuscheck/unsupervised-wine)
-- [Even BERT Was Fooled: The Real NYT Headline That Tripped Up My Machine Learning Model](https://github.com/karlbuscheck/fine-tuning-distilbert-fake-news-classifier)
+- [Even BERT Was Fooled: The Real NYT Headline That Tripped Up My Deep Learning Model](https://github.com/karlbuscheck/fine-tuning-distilbert-fake-news-classifier)
 - [Teaching DistilGPT-2 how to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
 - [Building a lightweight search engine](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 
