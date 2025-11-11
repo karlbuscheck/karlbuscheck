@@ -10,10 +10,10 @@ Projects in Deep Learning, NLP, and Computer Vision — from wildfire detection 
 - I engineered a Convolutional Neural Network (CNN) in Keras to predict wildfires from a 43K-image dataset. By implementing a methodologically rigorous pipeline with strategic Dropout, the model achieved a final 95.30% test accuracy, significantly improving generalization over baseline models.
 
 ## More Projects
-- [Battle of the Neural Networks](https://github.com/karlbuscheck/battle-of-the-neural-networks)
-- [Unsupervised Wine: Taming the Curse of Dimensionality](https://github.com/karlbuscheck/unsupervised-wine)
-- [Even BERT Was Fooled: The Real NYT Headline That Tripped Up My Deep Learning Model](https://github.com/karlbuscheck/fine-tuning-distilbert-fake-news-classifier)
 - [Teaching DistilGPT-2 how to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
+- [Even BERT Was Fooled: The Real NYT Headline That Tripped Up My Deep Learning Model](https://github.com/karlbuscheck/fine-tuning-distilbert-fake-news-classifier)
+- [Unsupervised Wine: Taming the Curse of Dimensionality](https://github.com/karlbuscheck/unsupervised-wine)
+- [Battle of the Neural Networks](https://github.com/karlbuscheck/battle-of-the-neural-networks)
 - [Building a lightweight search engine](https://github.com/karlbuscheck/building-a-search-engine-from-scratch)
 
 ## Core Tools
