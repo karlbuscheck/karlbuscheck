@@ -10,7 +10,7 @@ Projects in Deep Learning, NLP, and Computer Vision — from wildfire detection 
 - A hybrid transformer + XGBoost system that predicts lifetime views and subscriber change before a video goes live. Generates title embeddings with `all-MiniLM-L6-v2` and combines them with episode metadata for fast, directionally reliable forecasts. Includes a lightweight Colab console for real-time what-if testing of titles and release decisions.
 
 [FireSat-Lite: Deep Learning Wildfire Detection](https://github.com/karlbuscheck/firesat-lite)
-- I engineered a Convolutional Neural Network (CNN) in Keras to predict wildfires from a 43K-image dataset. By implementing a methodologically rigorous pipeline with strategic Dropout, the model achieved a final 95.30% test accuracy, significantly improving generalization over baseline models.
+- A production-style CNN trained on a 43K-image wildfire dataset (Fire, Smoke, Non-Fire). The project implements a clean, reproducible pipeline with fixed train/val/test splits, data augmentation, and strategic dropout to combat overfitting. The final model achieved 95.30% test accuracy, outperforming baseline architectures on a challenging, safety-critical task.
 
 ## More Projects
 - [Teaching DistilGPT-2 how to cook](https://github.com/karlbuscheck/teaching-gpt2-to-cook)
