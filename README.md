@@ -1,4 +1,4 @@
-## AI/ML Engineer | Computer Vision + NLP | MBA in Data Science & Business Analytics
+## AI/ML Engineer | NLP + Computer Vision | MBA in Data Science & Business Analytics
 
 Projects in Deep Learning, NLP, and Computer Vision — from wildfire detection to AI-powered podcast generation.
 
