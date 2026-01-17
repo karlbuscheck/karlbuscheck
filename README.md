@@ -1,4 +1,4 @@
-## AI/ML Engineer | NLP + Computer Vision | MBA in Data Science & Business Analytics
+## Applied AI and Machine Learning
 
 Projects in Deep Learning, NLP, and Computer Vision — from wildfire detection to AI-powered podcast generation.
 
