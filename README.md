@@ -21,5 +21,5 @@ Applied AI systems and end-to-end ML pipelines — from wildfire detection to AI
 
 ## Core Tools
 - **Langauges**: Python, SQL
-- **ML Frameworks & Libraries**: PyTorch, Keras, TensorFlow, Hugging Face, Scikit-learn, Pandas, NumPy
-- **Data & MLOps Tools**: Git, Google Colab, Jupyter Notebook
+- **ML Frameworks & Libraries**: PyTorch, TensorFlow/Keras, Hugging Face, scikit-learn, Pandas, NumPy
+- **Development & Experimentation**: Git, Google Colab, Jupyter Notebook
