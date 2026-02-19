@@ -1,4 +1,4 @@
-## Applied AI, Machine Learning and Data Science
+## Applied AI and Machine Learning
 
 Applied AI systems and end-to-end ML pipelines — from wildfire detection to AI-powered podcast generation.
 
